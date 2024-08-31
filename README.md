@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darshan Regmi
 
-Welcome to my GitHub profile! I'm a BIT student passionate about technology, programming, and poetry. Here you'll find a mix of my academic projects, personal coding adventures, and some creative writing.
+Welcome to my GitHub profile! I'm a student passionate about technology, programming, and poetry. Here you'll find a mix of my academic projects, personal coding adventures, and some creative writing.
 
 ## 🔧 Technologies & Tools
 
