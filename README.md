@@ -1,36 +1,30 @@
-# 👋 Hi, I'm Darshan Regmi
+Hi there 👋, I’m Darshan Regmi!
 
-Welcome to my GitHub profile! I'm a student passionate about technology, programming, and poetry. Here you'll find a mix of my academic projects, personal coding adventures.
+Welcome to my GitHub profile! I’m an undergraduate student with a deep passion for learning and problem-solving. I love diving into new technologies and collaborating on projects that challenge me to grow.
 
-## 🔧 Technologies & Tools
+🚀 About Me:
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Flask, Bootstrap, React
-- **Databases**: MySQL, SQLite
-- **Tools**: Git, GitHub, VS Code
-- **Operating System**: macOS (MacBook Air M2)
+	•	💡 Problem Solver: I enjoy tackling complex problems and coming up with creative solutions.
+	•	🤝 Collaborator: I believe that teamwork and knowledge sharing drive innovation.
+	•	🎓 Lifelong Learner: I’m always exploring new concepts and continuously building my skillset.
 
-## 📂 Projects ( currently working on not finished )
+🔧 Technologies I’m Learning and Working On:
 
-### 🎮 [Dino Game Enhanced](https://github.com/username/dino-game-enhanced)
-A reimagined version of the classic Chrome Dino game, featuring enhanced visuals, audio, and new gameplay elements.
+	•	Languages: Python, JavaScript, C
+	•	Web Development: HTML, CSS, React
+	•	Tools: Git, VS Code, Node.js
+	•	Databases: MySQL, MongoDB
+	•	Areas of Interest: Data Structures, Algorithms, AI/ML, and Full-stack Development
 
-### 📝 [Task Manager App](https://github.com/username/task-manager-app)
-A Python-based task management app built with Flask. Features include task categorization, filtering, and reminders.
+🌱 Currently:
 
-## 🌱 Currently Learning
+	•	🌐 Building projects to expand my web development and problem-solving skills.
+	•	🤔 Exploring opportunities for internships to gain practical experience.
 
-- **Web Development**: Improving my skills in Flask and React.
-- **Cloud Deployment**: Exploring options to deploy my Flask applications.
-- **Game Development**: Experimenting with game mechanics and design principles.
+💬 Let’s Connect: 
 
-## 📫 How to Reach Me
+Feel free to reach out if you’d like to collaborate on a project, share ideas, or just chat! I’m open to learning opportunities and mentorship.
 
-- **Instagram**: [@darshan_._regmii](https://instagram.com/darshan_._regmi)
-- **Email**: regmidarshan545@gmail.com
-
-## 💡 Fun Fact
-
-I love writing poems and often find myself blending creativity with technology in unique ways. My poetry collection, is a reflection of my thoughts and experiences.
-
-Thanks for visiting my GitHub profile! Feel free to explore my projects and get in touch if you have any questions or just want to chat about tech or poetry.
+	•	LinkedIn: https://www.linkedin.com/in/darshan-regmi-b08b7823b/
+	•	Twitter: https://x.com/Regmi6Darshan
+	•	Portfolio/Website: Comming Soon
