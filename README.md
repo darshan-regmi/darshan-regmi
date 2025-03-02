@@ -21,8 +21,8 @@ I'm Darshan Regmi, an undergraduate student passionate about learning, problem-s
 
 ## How to Reach Me
 
-- 📫 Email: regmidarshan.work@gmail.com (Work-related) | regmidarsu69@gmail.com (Casual projects)
+- 📫 Email: regmidarshan.work@gmail.com
 - 💼 LinkedIn: [Darshan Regmi](https://www.linkedin.com/in/darshan-regmi-b08b7823b/)
-- 🌐 Portfolio: Coming soon!
+- 🌐 Portfolio: [Darshan Regmi](https://darshanregmi.com.np)
   
 Thanks for visiting! Let's connect and collaborate! 😊
