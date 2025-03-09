@@ -1,28 +1,52 @@
 # Hi there! 👋
 
-I'm Darshan Regmi, an undergraduate student passionate about learning, problem-solving, and collaborating on exciting projects! 🎓 
+I'm **Darshan Regmi**, a passionate undergraduate student blending technical and creative skills in the fields of **AI**, **software development**, **mobile apps**, and **poetry**. I specialize in building efficient, scalable applications and enjoy exploring both technology and creativity in my projects.
 
 ## About Me
 
-- 🌱 I’m currently studying BSc (Hons) Computing at Informatics College Pokhara.
-- 🔍 I enjoy exploring new technologies and finding practical ways to apply them.
-- 🤝 I thrive in collaborative team environments and love to work on innovative projects that help me grow.
-- 💡 I'm always looking for opportunities to develop my skills and gain hands-on experience in real-world projects.
+- 🎓 **BSc (Hons) Computing** at **Informatics College Pokhara** (2024 - Present)
+- 💻 I have experience in **JavaScript (React.js, Node.js)**, **Python**, **Java**, and **Flutter (Android & iOS)**.
+- 🤖 Passionate about **AI-driven development**, and exploring **GPT**, **BERT**, and other advanced technologies.
+- ✍ I also write **poetry**, expressing complex ideas through storytelling, blending **technology**, **nature**, and **human connection**.
+- 🌱 I'm always eager to learn, grow, and take on new challenges that help me improve both technically and creatively.
 
 ## What I'm Learning
 
-- 💻 Currently deep-diving into React, Node, Python, and Django, while improving my critical thinking and analytical skills.
-- 🔭 Exploring AI/ML, iOS development, and other cutting-edge technologies to broaden my knowledge.
+- 💻 **React**, **Node**, **Python**, **Django**, **AI/ML**, **iOS Development**, and **Next.js**.
+- 📚 Improving my skills in **Java**, **TypeScript**, and **Flutter** for mobile development.
 
 ## What I'm Working On
 
-- 🚀 A web-based application for a local restaurant – This project involves creating an online platform for a restaurant to streamline food ordering, table reservations, and customer engagement, using React and Node.
-- 📚 Learning and implementing Java and TypeScript to level up my projects.
+- 🚀 **Web Application for a Local Restaurant**: Developing an online platform for food ordering, table reservations, and customer engagement.
+- 📱 Building mobile applications using **Flutter** for both **Android** and **iOS**.
+- 💡 **AI Projects**: Implementing AI-driven solutions and automating tasks using **Make.com**.
+
+## Skills
+
+### Web Development
+- **JavaScript**: React.js, Node.js, Next.js
+- **HTML/CSS**: Responsive design, UI/UX
+- **Python**: Flask, Django
+- **Firebase**: Backend services, authentication
+- **TypeScript**: Static typing, scalable applications
+- **Java**: Object-oriented programming
+
+### Mobile Development
+- **Flutter**: Android & iOS mobile apps
+
+### AI & Automation
+- **AI/ML**: GPT, BERT, AI-driven development
+- **Automation**: Make.com, workflow automation
+
+### Creative Writing & Poetry
+- **Storytelling**: Expressing complex ideas through artistic composition
+- **Poetry**: Merging technology, nature, and human connection
 
 ## How to Reach Me
 
-- 📫 Email: regmidarshan.work@gmail.com
+- 📫 Email: [regmidarshan.work@gmail.com](mailto:regmidarshan.work@gmail.com)
 - 💼 LinkedIn: [Darshan Regmi](https://www.linkedin.com/in/darshan-regmi-b08b7823b/)
 - 🌐 Portfolio: [Darshan Regmi](https://darshanregmi.com.np)
-  
+- 📂 GitHub: [Darshan Regmi](https://github.com/darshan-regmi)
+
 Thanks for visiting! Let's connect and collaborate! 😊
