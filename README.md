@@ -47,6 +47,5 @@ I'm **Darshan Regmi**, a passionate undergraduate student blending technical and
 - 📫 Email: [regmidarshan.work@gmail.com](mailto:regmidarshan.work@gmail.com)
 - 💼 LinkedIn: [Darshan Regmi](https://www.linkedin.com/in/darshan-regmi-b08b7823b/)
 - 🌐 Portfolio: [Darshan Regmi](https://darshanregmi.com.np)
-- 📂 GitHub: [Darshan Regmi](https://github.com/darshan-regmi)
 
 Thanks for visiting! Let's connect and collaborate! 😊
