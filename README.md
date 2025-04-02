@@ -17,9 +17,8 @@ I'm **Darshan Regmi**, a passionate undergraduate student blending technical and
 
 ## What I'm Working On
 
-- 🚀 **Web Application for a Local Restaurant**: Developing an online platform for food ordering, table reservations, and customer engagement.
-- 📱 Building mobile applications using **Flutter** for both **Android** and **iOS**.
-- 💡 **AI Projects**: Implementing AI-driven solutions and automating tasks using **Make.com**.
+- ✨ **Poetry-Sharing App** – A platform where writers can share their poems, connect with others, and engage with the poetry community.  
+- 📖 **My Poetry Book – *Our Story*** – A collection of poems about love, heartbreak, healing, and self-discovery.  
 
 ## Skills
 
