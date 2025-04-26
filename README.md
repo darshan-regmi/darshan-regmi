@@ -206,9 +206,8 @@ const darshan = {
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" width="50" height="50" alt="Canva"/><br/>
+      <sub><b>Canva</b></sub>
   </tr>
 
   <tr>
