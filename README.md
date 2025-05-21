@@ -95,18 +95,18 @@ const darshan = {
 
 ## 🔭 Featured Projects
 
-### [✨ **Metaphora** - Poetry Community Platform](https://github.com/darshan-regmi/metaphora)
+### [✨ **Metaphora** - Poetry Community Platform](https://github.com/darshan-regmi/metaphora) (Currently on hold)
 
 **Metaphora** is a mobile application connecting poets and poetry enthusiasts worldwide. It provides a dedicated space for creative expression, meaningful connections, and artistic growth.
 
-**Key Features:**
+**Features: Coming Soon...**
 
 - Real-time collaborative poetry creation
 - AI-powered personalized content recommendations
 - Interactive poetry challenges and prompts
 - Community feedback and engagement metrics
 
-**Technologies:** React Native, Firebase, Node.js, Redux, Express
+**Technologies:** Flutter, SQLite
 
 **Impact:** Increased user engagement by 45% through real-time features, improved content discovery by 30% with custom recommendation algorithms, and scaled to 500+ active users during beta testing.
 
@@ -128,8 +128,6 @@ const darshan = {
 **Process:** Combining traditional poetic forms with experimental digital-inspired structures to create a unique literary experience that bridges technical and creative communities.
 
 **Status:** In progress, expected publication in 2025
-
-**[View Project →](https://github.com/darshan-regmi/our-story)**
 
 ## 🌟 Skills
 
@@ -233,7 +231,8 @@ const darshan = {
 
 ## 🌈 Beyond Coding
 
-- 📚 Currently reading: "It Ends With Us" by Colleen Hoover\
+- 📚 Currently reading: "It Ends With Us" by Colleen Hoover
+- ✍🏼 Currently writing: "Our Story" a poetry collection
 - ☕ Fuel: Nepalese black tea with a hint of cardamom
 
 ## 📫 Connect & Collaborate
@@ -270,15 +269,10 @@ I especially welcome contributions related to UI/UX improvements, performance op
 
 <div align="center">
 
-### 📊 Stats & Activity
+> just me, writing poems and pushing commits.  
+> sometimes the code bugs me, sometimes it heals me.  
+> either way, i keep creating.
 
-![Visitor Count](https://profile-counter.glitch.me/darshan-regmi/count.svg)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> "Code is poetry, and I'm a poet who codes."
-
-⭐️ From [darshan-regmi](https://github.com/darshan-regmi)
+✨ — [@wordsbydarshan](https://instagram.com/wordsbydarshan)
 
 </div>
