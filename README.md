@@ -20,8 +20,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const darshan = {
-  name: "Darshan Regmi",
+const darshan = {◊
+  name: "Darshan Regmi",◊
   title: "Full-Stack Developer & Poet",
   education:
     "BSc (Hons) Computing at Informatics College Pokhara (2024 - Present)",
@@ -87,12 +87,6 @@ const darshan = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-regmi&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
 ## 🔭 Featured Projects
 
 ### [✨ **Metaphora** - Poetry Community Platform](https://github.com/darshan-regmi/metaphora) (Currently on hold)
@@ -114,7 +108,7 @@ const darshan = {
 
 ---
 
-### [📖 **Our Story** - Digital Poetry Collection](https://github.com/darshan-regmi/our-story)
+### [📖 **Our Story** - Digital Poetry Collection](https://poetry.darshanregmi.com.np)
 
 **Our Story** is a collection of poems exploring the intersection of technology and human emotion. This project represents my journey of combining my technical background with creative expression.
 
@@ -242,6 +236,7 @@ const darshan = {
 [![Email](https://img.shields.io/badge/Work-regmidarshan.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regmidarshan.work@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan_Regmi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-regmi-b08b7823b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-darshanregmi.com.np-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://darshanregmi.com.np)
+[![Portfolio](https://img.shields.io/badge/Poetry-poetry.darshanregmi.com.np-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://poetry.darshanregmi.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-darshan--regmi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-regmi)
 [![Instagram](https://img.shields.io/badge/Personal-@_darshan_regmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_darshan_regmi)
 [![Instagram](https://img.shields.io/badge/Poetry-@wordsbydrshan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wordsbydarshan)
