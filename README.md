@@ -239,7 +239,6 @@ const darshan = {◊
 [![Portfolio](https://img.shields.io/badge/Poetry-poetry.darshanregmi.com.np-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://poetry.darshanregmi.com.np)
 [![GitHub](https://img.shields.io/badge/GitHub-darshan--regmi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshan-regmi)
 [![Instagram](https://img.shields.io/badge/Personal-@_darshan_regmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_darshan_regmi)
-[![Instagram](https://img.shields.io/badge/Poetry-@wordsbydrshan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wordsbydarshan)
 
 </div>
 
