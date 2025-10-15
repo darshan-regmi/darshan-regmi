@@ -20,8 +20,8 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const darshan = {◊
-  name: "Darshan Regmi",◊
+const darshan = {
+  name: "Darshan Regmi",
   title: "Full-Stack Developer & Poet",
   education:
     "BSc (Hons) Computing at Informatics College Pokhara (2024 - Present)",
