@@ -7,7 +7,7 @@
 ### 🌟 Full-stack developer with a poet's perspective, creating technology that connects and inspires
 
 <p align="center">
-<a href="mailto:regmidarshan.work@gmail.com"><img src="https://img.shields.io/badge/Email-regmidarshan.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:darshanregmi.official@gmail.com"><img src="https://img.shields.io/badge/Email-darshanregmi.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/darshan-regmi-b08b7823b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://darshanregmi.com.np"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=google-chrome&logoColor=white"></a>
 <a href="https://poetry.darshanregmi.com.np"><img src="https://img.shields.io/badge/Poetry-Read-FF6B6B?style=flat-square&logo=书&logoColor=white"></a>
@@ -415,8 +415,8 @@ Innovative ideas at the intersection of AI and creativity
 
 <div align="center">
 
-<a href="mailto:regmidarshan.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-regmidarshan.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:darshanregmi.official@gmail.com">
+<img src="https://img.shields.io/badge/Email-darshanregmi.official@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/darshan-regmi-b08b7823b/">
@@ -437,10 +437,6 @@ Innovative ideas at the intersection of AI and creativity
 
 <a href="https://instagram.com/_darshan_regmi">
 <img src="https://img.shields.io/badge/Personal-@__darshan__regmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Personal Instagram"/>
-</a>
-
-<a href="https://instagram.com/wordsbydarshan">
-<img src="https://img.shields.io/badge/Poetry-@wordsbydarshan-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Poetry Instagram"/>
 </a>
 
 <br><br>
@@ -488,7 +484,7 @@ or just want to say hello — my inbox is always open.
 > *sometimes the code bugs me, sometimes it heals me.*  
 > *either way, i keep creating.*
 
-**— [@wordsbydarshan](https://instagram.com/wordsbydarshan)**
+**— [@_darshan_regmi](https://www.instagram.com/_darshan_regmi/)**
 
 <br>
 
