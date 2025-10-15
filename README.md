@@ -438,7 +438,7 @@ Innovative ideas at the intersection of AI and creativity
 </a>
 
 <a href="https://poetry.darshanregmi.com.np">
-<img src="https://img.shields.io/badge/Poetry-Read-FF6B6B?style=flat-square&logo=book&logoColor=white">
+<img src="https://img.shields.io/badge/Poetry-poetry.darshanregmi.com.np-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="Poetry"/>
 </a>
 
 <a href="https://github.com/darshan-regmi">
