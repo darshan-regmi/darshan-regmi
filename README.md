@@ -234,14 +234,17 @@ const darshan = {
 ### 📚 Currently Mastering
 
 🤖 **Advanced AI/ML Techniques**
+
 - Practical applications of GPT models in creative writing
 - Fine-tuning transformers for poetry generation
 
 📱 **React Native Performance**
+
 - App responsiveness optimization
 - Bundle size reduction strategies
 
 💻 **TypeScript Best Practices**
+
 - Strict type safety in large-scale apps
 - Advanced type patterns and generics
 
@@ -251,14 +254,17 @@ const darshan = {
 ### 🎯 Next 6 Months
 
 💡 **Blockchain Development**
+
 - Smart contracts with Solidity
 - Decentralized applications (dApps)
 
 📊 **Data Visualization**
+
 - Interactive visualizations with D3.js
 - Poetry metrics and analytics dashboards
 
 🔍 **GraphQL Mastery**
+
 - Efficient API design patterns
 - Mobile-first GraphQL architectures
 
@@ -291,6 +297,7 @@ const darshan = {
 **Metaphora** connects poets worldwide through a dedicated mobile platform for creative expression, meaningful connections, and artistic growth.
 
 **✨ Planned Features:**
+
 - 🤝 Real-time collaborative poetry creation
 - 🎯 AI-powered personalized content recommendations
 - 🏆 Interactive poetry challenges and daily prompts
@@ -298,6 +305,7 @@ const darshan = {
 - 🌐 Multi-language support for global reach
 
 **📈 Expected Impact:**
+
 - Enhanced user engagement through real-time features
 - Improved content discovery with custom recommendation algorithms
 - Scalable architecture supporting thousands of active users
@@ -320,6 +328,7 @@ const darshan = {
 A curated collection exploring the intersection of technology and human emotion through poetry that bridges the digital and the deeply personal.
 
 **🎭 Central Themes:**
+
 - Technology's impact on modern relationships
 - Digital connection in a physical world
 - Nature as metaphor for technological growth
@@ -401,6 +410,7 @@ Innovative ideas at the intersection of AI and creativity
 3. 📝 **Submit a pull request** with comprehensive descriptions
 
 **I especially welcome contributions in:**
+
 - 🎨 UI/UX improvements and design enhancements
 - ⚡ Performance optimizations
 - ✨ Creative features and innovative solutions
@@ -441,7 +451,7 @@ Innovative ideas at the intersection of AI and creativity
 
 <br><br>
 
-### 💬 Let's build something amazing together!
+### 💬 Let's build something amazing together
 
 Whether you're interested in collaborating on a project, discussing technology and poetry,  
 or just want to say hello — my inbox is always open.
