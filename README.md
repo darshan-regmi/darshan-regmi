@@ -12,7 +12,7 @@
   <a href="mailto:darshanregmi.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/darshan-regmi-b08b7823b/">
+  <a href="https://www.linkedin.com/in/darshan-regmi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://darshanregmi.com.np">
@@ -146,11 +146,6 @@ A living collection of poems at the intersection of technology and emotion.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshan-regmi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-regmi&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-regmi&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -180,7 +175,7 @@ Open to:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /> <a href="mailto:darshanregmi.official@gmail.com">Email</a> •
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> <a href="https://www.linkedin.com/in/darshan-regmi-b08b7823b/">LinkedIn</a> •
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /> <a href="https://www.linkedin.com/in/darshan-regmi/">LinkedIn</a> •
   <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=flat-square&logo=google-chrome&logoColor=white" /> <a href="https://darshanregmi.com.np">Portfolio</a> •
   <img src="https://img.shields.io/badge/-Poetry-FF6B6B?style=flat-square&logo=book&logoColor=white" /> <a href="https://poetry.darshanregmi.com.np">Poetry</a>
 </p>
